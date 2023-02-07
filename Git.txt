@@ -61,5 +61,5 @@ git clean -xdf
 git reset -- [FileName]
 15) Удаление коммита
 git reset HEAD~[NumberOfCommits]
-16) 
+
 
