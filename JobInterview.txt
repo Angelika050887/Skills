@@ -10,7 +10,7 @@
 9. Will you work independently or in a team?
 10. What are your goals for the future? Where do you see yourself in 5 years?
 11. What are your career goals? 
-12. Why should we hire you?
+12. Why should we hire you? What makes you unique?
 13. Are you qualified for this position?
 14. What was the latest specific book you read?
 15. Are you familiar with SQL?
@@ -21,14 +21,24 @@
 20. What is a Bug Lifecycle?
 21. What did you do to improve your English level?
 22. What do you look for in a job?
-23.  What do you find most attractive about this position?
+23. What do you find most attractive about this position?
 24. What are your long-range career objectives?
 25. What do you do in your free time? 
 26. What did you do last weekend?
 27. How well do you work with people?
-28. What is a good working environment for you?
+28. What is a good working environment for you? What type of work environment do you prefer?
 29. What was a movie you saw recently that impressed you?
 30. What would your co-workers say about you?
 31. Tell me about something you’ve accomplished that you are proud of.
-32. Можете ли вы объяснить свой разрыв в занятости?
+32. Could you explain your employment gap?
 33. What are your salary expectations?
+34. How did you hear about the position?
+35. What is your greatest professional achievement?
+36. When have you demonstrated leadership skills?
+37. What do you do if you disagree with someone’s decision?
+38. What sorts of things annoy you at work?
+39. How do you achieve a good work-life balance?
+40. How do you prioritize your work?
+41. What’s your dream job?
+42. When could you start?
+43. What other companies were you interviewed with?
